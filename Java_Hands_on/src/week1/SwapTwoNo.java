@@ -1,3 +1,4 @@
+package week1;
 public class SwapTwoNo {
     public static void main(String[] args) {
         int no1=10;

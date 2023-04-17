@@ -1,3 +1,4 @@
+package week1;
 import javax.sound.sampled.SourceDataLine;
 
 public class PrintInteger {

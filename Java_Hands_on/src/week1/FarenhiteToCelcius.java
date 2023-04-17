@@ -1,3 +1,4 @@
+package week1;
 public class FarenhiteToCelcius {
     public static void main(String[] args) {
         double fahrenheit=100;
