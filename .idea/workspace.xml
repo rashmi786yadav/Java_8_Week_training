@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="133e2ba4-8eb2-4876-a45d-be60774236fb" name="Changes" comment="" />
+    <list default="true" id="133e2ba4-8eb2-4876-a45d-be60774236fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Java_Hands_on/src/week3/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Hands_on/src/week3/ReplaceString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Hands_on/src/week3/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Hands_on/src/week3/SplitString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Hands_on/src/week3/Substrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hands_on/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Hands_on/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hands_on/.idea/sonarlint/issuestore/4/9/495c302a84af98a5b0c227ee151874875266d305" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hands_on/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Hands_on/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hands_on/.idea/sonarlint/securityhotspotstore/4/9/495c302a84af98a5b0c227ee151874875266d305" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hands_on/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Hands_on/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Hands_on/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Hands_on/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +42,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/rasyadav2/Desktop/Java_8_Week_training/Java_Hands_on"
+    "last_opened_file_path": "C:/Users/rasyadav2/Desktop/Java_8_Week_training"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

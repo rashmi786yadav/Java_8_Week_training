@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c775e93c-91db-4be4-bd5a-651f1b73b43b" name="Changes" comment="" />
+    <list default="true" id="c775e93c-91db-4be4-bd5a-651f1b73b43b" name="Changes" comment="added programs till week 5">
+      <change afterPath="$PROJECT_DIR$/src/com/designpatter/creational/BuilderPatternExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designpatter/creational/SingletonDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designpatter/creational/prototype/PrototypeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designpattern/structural/bridge/BridgePatternExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designpattern/structural/composite/CompositeDesignPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designpattern/structural/composite/CompositePatternExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designpattern/structural/decorator/DecoratorPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designpattern/structural/decorator/DecoratorPatternExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/week5/streamapi/FrequencyMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/week5/streamapi/InfiniteNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/week5/streamapi/SecondMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/week5/streamapi/SquareSumOfEvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -21,10 +49,87 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/rasyadav2/Desktop/Java_8_Week_training/Java_Hands_on"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.DecoratorPatternExample">
+    <configuration name="AbstractFactoryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpatter.creational.AbstractFactoryExample" />
+      <module name="Java_Hands_on" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpatter.creational.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdapterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.structural.adapter.AdapterExample" />
+      <module name="Java_Hands_on" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpattern.structural.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuilderPatternExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpatter.creational.BuilderPatternExample" />
+      <module name="Java_Hands_on" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpatter.creational.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecoratorPatternExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.structural.decorator.DecoratorPatternExample" />
+      <module name="Java_Hands_on" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpattern.structural.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrototypeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpatter.creational.prototype.PrototypeExample" />
+      <module name="Java_Hands_on" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpatter.creational.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DecoratorPatternExample" />
+        <item itemvalue="Application.AdapterExample" />
+        <item itemvalue="Application.PrototypeExample" />
+        <item itemvalue="Application.BuilderPatternExample" />
+        <item itemvalue="Application.AbstractFactoryExample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,6 +139,29 @@
       <option name="presentableId" value="Default" />
       <updated>1681704287479</updated>
     </task>
+    <task id="LOCAL-00001" summary="added programs till week 5">
+      <created>1683045093792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683045093792</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added programs till week 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="added programs till week 5" />
   </component>
 </project>

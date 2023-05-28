@@ -1,0 +1,11 @@
+
+T
+java:S2629"7Use the built-in formatting to construct this argument.(ÿñÛµ8Ä¤ÒÂ‚1
+S
+java:S26294"7Use the built-in formatting to construct this argument.(Êû·98—úÕÂ‚1
+h
+java:S3457"KFormat specifiers or lambda should be used instead of string concatenation.(ÿñÛµ8à¤ÒÂ‚1
+g
+java:S34574"KFormat specifiers or lambda should be used instead of string concatenation.(Êû·98µúÕÂ‚1
+`
+java:S1128">Remove this unused import 'com.week5.streamapi.SecondMinimum'.(¤ĞùÑşÿÿÿÿ8åØÔÂ‚1

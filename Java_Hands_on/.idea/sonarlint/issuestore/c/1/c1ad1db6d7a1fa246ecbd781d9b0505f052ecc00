@@ -1,0 +1,5 @@
+
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(·¢÷žùÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÆÐ¹ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ì¡éçüÿÿÿÿ
